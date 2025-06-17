@@ -46,3 +46,7 @@ Statistics are updated in real-time as you manage tasks.
 
 Fully responsive layout and interactive design for a better user experience.
 
+Web page :
+![image](https://github.com/user-attachments/assets/a81192ce-f371-43c6-986e-9e576068944a)
+
+![image](https://github.com/user-attachments/assets/8eaf96ea-f52f-432e-aff0-eb3fe3f1e8ab)
