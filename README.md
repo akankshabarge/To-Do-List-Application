@@ -6,13 +6,21 @@ A modern, responsive Todo List web app built using React.js. This app helps user
 
 Add New Tasks
 ✅ Mark Tasks as Complete or Incomplete
+
 ✅ Delete Tasks
+
 ✅ Filter Tasks (All / Completed / Pending)
+
 ✅ Show Task Creation Time
+
 ✅ Track Progress with a visual progress bar
+
 ✅ Live Counters for total, completed, and pending tasks
+
 ✅ Data Persistence using LocalStorage
+
 ✅ Responsive Design (Mobile + Desktop)
+
 ✅ Modern UI with Glassmorphism and Smooth Animations
 
 ## Tech Stack
