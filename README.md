@@ -4,7 +4,8 @@ A modern, responsive Todo List web app built using React.js. This app helps user
 
 ## Features :
 
-Add New Tasks
+✅ Add New Tasks
+
 ✅ Mark Tasks as Complete or Incomplete
 
 ✅ Delete Tasks
